@@ -95,11 +95,11 @@ body {
 }
 .theme-gray {
    background: #808080;
-   color: #ffffff;
+   color: #000000;
 }
 .theme-SlateGray {
    background: #708090;
-   color: #FFFFFF;
+   color: #000000;
 }
 .img-background--eye {
      background-size: cover;
