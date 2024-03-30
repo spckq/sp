@@ -125,7 +125,7 @@ body {
      background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото3');
      background-size: cover;
      background-repeat: no-repeat;
-     color: #000000;
+     color: #FFFFFF;
 }
 .img-background--ride {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/spckq/sp/main/1689337158_vsegda-pomnim-com-p-doroga-v-tumane-foto-7.jpg');
