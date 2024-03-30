@@ -4,7 +4,7 @@
 
 body {
      background: #1c1e22;
-     color: #fff;
+     color: #000000;
 }
 .support-warning {
      background: #ccb11c;
@@ -91,7 +91,7 @@ body {
 }
 .theme-DimGray {
    background: #696969;
-   color: #FFFFFF;
+   color: #000000;
 }
 .theme-gray {
    background: #808080;
