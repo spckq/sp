@@ -107,7 +107,7 @@ body {
      color: #fff;
 }
 .img-background--beg {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/spckq/sp/main/беж.jpg');
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/spckq/sp/main/беж.jpg');
 }
 
 .img-background--aet {
