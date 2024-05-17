@@ -18,7 +18,7 @@ left: 0;
 background-color: white;
 transform: translate3d(0, 0, 0);
 }
-.level1 {
+.level-1 {
   animation: animation_fg linear 120s infinite both; 
 background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(1)%20(1).png) 0 100% repeat-x;
 z-index: 1;
@@ -35,7 +35,7 @@ height: 100%;
 
 background-size: auto 871px;
 }
-.level2 {
+.level-2 {
   animation: animation_fg linear 110s infinite both; 
 background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(6).png) 0 100% repeat-x;
 z-index: 1;
@@ -52,7 +52,7 @@ height: 100%;
 
 background-size: auto 1188px;
 }
-.level3 {
+.level-3 {
   animation: animation_fg linear 90s infinite both; 
 background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(5).png) 0 100% repeat-x;
 z-index: 1;
@@ -69,7 +69,7 @@ height: 100%;
 
 background-size: auto 266px;
 }
-.level4 {
+.level-4 {
   animation: animation_fg linear 15s infinite both; 
 background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(7).png) 0 100% repeat-x;
 z-index: 1;
@@ -86,7 +86,7 @@ height: 100%;
 
 background-size: auto 307px;
 }
-.cloud {
+.cloud-1 {
   background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(8).png) 0 100% no-repeat;
   z-index: 1;
   position: absolute;
