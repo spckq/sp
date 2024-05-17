@@ -1,0 +1,139 @@
+* {
+
+  box-sizing: border-box;
+
+}
+body {
+
+  font-family: 'Arial', sans-serif;
+
+}
+.scena {
+width: 100%;
+height: 100%;
+min-height: 450px;
+position: relative;
+top: 0;
+left: 0;
+background-color: black;
+transform: translate3d(0, 0, 0);
+}
+.level1 {
+  animation: animation_fg linear 120s infinite both; 
+background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(1)%20(1).png) 0 100% repeat-x;
+z-index: 1;
+
+position: absolute;
+
+bottom: 0;
+
+left: 0;
+
+width: 100%;
+
+height: 100%;
+
+background-size: auto 871px;
+}
+.level2 {
+  animation: animation_fg linear 110s infinite both; 
+background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(6).png) 0 100% repeat-x;
+z-index: 1;
+
+position: absolute;
+
+bottom: 0;
+
+left: 0;
+
+width: 100%;
+
+height: 100%;
+
+background-size: auto 1188px;
+}
+.level3 {
+  animation: animation_fg linear 90s infinite both; 
+background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(5).png) 0 100% repeat-x;
+z-index: 1;
+
+position: absolute;
+
+bottom: 0;
+
+left: 0;
+
+width: 100%;
+
+height: 100%;
+
+background-size: auto 266px;
+}
+.level4 {
+  animation: animation_fg linear 15s infinite both; 
+background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(7).png) 0 100% repeat-x;
+z-index: 1;
+
+position: absolute;
+
+bottom: 0;
+
+left: 0;
+
+width: 100%;
+
+height: 100%;
+
+background-size: auto 307px;
+}
+.cloud {
+  background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(8).png) 0 100% no-repeat;
+  z-index: 1;
+  position: absolute;
+  bottom: 600px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: auto 75px;
+  animation: animation_cloud linear 10s infinite both;
+}
+.cloud-2 {
+  background: url(https://raw.githubusercontent.com/spckq/sp/main/pngwing.com%20(9).png) 0 100% no-repeat;
+  z-index: 1;
+  position: absolute;
+  bottom: 600px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: auto 75px;
+  animation: animation_cloud linear 15s infinite both;
+}
+@keyframes animation_fg {
+
+  0% {
+
+    background-position: 2765px 100%;
+
+  }
+
+  100% {
+
+    background-position: 550px 100%;
+
+  }
+
+}@keyframes animation_cloud {
+
+  0% {
+
+    background-position: -300px 100%;
+
+  }
+
+  100% {
+
+    background-position: 2000px 100%;
+
+  }
+
+}
