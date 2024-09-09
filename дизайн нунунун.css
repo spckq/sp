@@ -132,7 +132,8 @@ font-family: 'Source Sans Pro', sans-serif;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
  background-position: top center;
-}#flat .parallax-two {
+}
+#flat .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -146,7 +147,8 @@ font-family: 'Source Sans Pro', sans-serif;
  background-repeat: no-repeat;
  background-position: top center;
 
-}#flat .parallax-three {
+}
+#flat .parallax-three {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
