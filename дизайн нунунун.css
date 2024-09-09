@@ -125,28 +125,26 @@ font-family: 'Source Sans Pro', sans-serif;
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url ("https://raw.githubusercontent.com/spckq/sp/main/картинка%201.jpg");
+ background-image: url("https://raw.githubusercontent.com/spckq/sp/main/картинка%201.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
  background-position: top center;
-}
-#flat .parallax-two {
+}#flat .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url ("https://raw.githubusercontent.com/spckq/sp/main/картинка%202.jpg");
+ background-image: url("https://raw.githubusercontent.com/spckq/sp/main/картинка%202.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
  background-position: top center;
-
 }
 #flat .parallax-three {
  padding-top: 200px;
@@ -154,7 +152,7 @@ font-family: 'Source Sans Pro', sans-serif;
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url ("https://raw.githubusercontent.com/spckq/sp/main/картинка%204.jpg");
+ background-image: url("https://raw.githubusercontent.com/spckq/sp/main/картинка%203.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
