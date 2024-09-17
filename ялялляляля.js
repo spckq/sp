@@ -4,7 +4,7 @@ var slideHeight;
 var sliderUlWidth;
 
 $(function() {
- getRssFeed("https://news.rambler.ru/rss/China/", mapFeed);
+ getRssFeed("http://feeds.feedburner.com/TheHackersNews?format=xml", mapFeed);
 
  $('.left-arrow').on('click', function () {
   moveLeft();
