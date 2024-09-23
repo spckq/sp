@@ -231,6 +231,7 @@
 .letter a {
  float: left;
  font-size: 84px;
+  color: #f00
  line-height: 64px;
  padding-top: 4px;
  padding-right: 8px;
@@ -239,6 +240,7 @@
  }
  .letter b {
  float: left;
+color: #f00
  font-size: 84px;
  line-height: 64px;
  padding-top: 4px;
